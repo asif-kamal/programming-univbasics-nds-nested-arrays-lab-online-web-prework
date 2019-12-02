@@ -30,16 +30,7 @@ def assembled_matrix
 end
 
 def array_literal_matrix
-  spice_rack = [["Don Gately",
-  "Joelle van Dyne",
-  "Pat M.",
-  "Kate Gompert",
-  "Bruce Green"],
-  ["Hal Incandenza",
-  "Lyle",
-  "Gerhard Schtitt",
-  "Mario Incandenza",
-  "Michael Pemulis"]]
+  spice_rack = []]
   
 end
 
