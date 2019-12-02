@@ -26,7 +26,7 @@ def assembled_matrix
   "Lyle",
   "Gerhard Schtitt",
   "Mario Incandenza",
-  "Michael Pemulis"]]
+  "Michael Pemulis"]].sort
 end
 
 def array_literal_matrix
