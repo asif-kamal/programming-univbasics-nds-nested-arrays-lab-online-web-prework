@@ -30,7 +30,7 @@ def assembled_matrix
 end
 
 def array_literal_matrix
-  spice_rack = [[ENNET_HOUSE.sort, ENFIELD_TENNIS_ACADEMY.sort]]
+  spice_rack = [ENNET_HOUSE.sort, ENFIELD_TENNIS_ACADEMY.sort]
 end
 
 def matrix_lookup(matrix, row, column)
