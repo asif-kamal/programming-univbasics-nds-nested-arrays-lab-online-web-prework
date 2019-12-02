@@ -17,7 +17,11 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  
+  Enpeople = [["Don Gately",
+  "Joelle van Dyne",
+  "Pat M.",
+  "Kate Gompert",
+  "Bruce Green"]]
 end
 
 def array_literal_matrix
