@@ -41,7 +41,7 @@ def array_literal_matrix
   "Mario Incandenza",
   "Michael Pemulis"]]
   
-  spice_rack.
+  spice_rack
 end
 
 def matrix_lookup(matrix, row, column)
