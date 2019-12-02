@@ -31,13 +31,13 @@ end
 
 def array_literal_matrix
   spice_rack = [["Don Gately",
-  "Joelle van Dyne"],
-  ["Pat M.",
+  "Joelle van Dyne",
+  "Pat M.",
   "Kate Gompert",
-  "Bruce Green"], 
+  "Bruce Green"],
   ["Hal Incandenza",
   "Lyle",
-  "Gerhard Schtitt",[]
+  "Gerhard Schtitt",
   "Mario Incandenza",
   "Michael Pemulis"]]
   
