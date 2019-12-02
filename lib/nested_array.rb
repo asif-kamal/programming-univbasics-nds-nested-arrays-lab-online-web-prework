@@ -30,7 +30,7 @@ def assembled_matrix
 end
 
 def array_literal_matrix
-  spice_rack.sort
+  
 end
 
 def matrix_lookup(matrix, row, column)
